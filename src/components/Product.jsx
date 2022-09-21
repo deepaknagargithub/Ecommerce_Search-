@@ -2,7 +2,6 @@ import React from "react";
 
 function Product(props) {
   const item = props.product;
-  console.log(item);
   return (
     <div className="productcontainer">
       <div className="product">
